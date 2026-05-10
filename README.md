@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক ঘোরের মাঝে হারিয়েছি আজ
+> তোমার প্রেমে ভুলেছি যে আমি সকল লাজ
+> হৃদয় জুড়ে বইছে যেন এক মায়াবী হাওয়া
+> তুমি আমার বুকের ভেতর মিষ্টি এক চাওয়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
