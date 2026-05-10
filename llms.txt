@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/protisruti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Protisruti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/protisruti/) |
+| **Get License** | [Obtain a Music License for Protisruti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/protisruti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক ঘোরের মাঝে হারিয়েছি আজ
+> তোমার প্রেমে ভুলেছি যে আমি সকল লাজ
+> হৃদয় জুড়ে বইছে যেন এক মায়াবী হাওয়া
+> তুমি আমার বুকের ভেতর মিষ্টি এক চাওয়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dd2db9658c2b944004cc8ea7e7ecfad4876d59ecb8de2129c3527f78fe57cd69` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

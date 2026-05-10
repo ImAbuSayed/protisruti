@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Protisruti
+
+This log tracks the cryptographic history and versioning for the song **Protisruti** (protisruti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T05:19:04.916701 | `v1` | `dd2db9658c2b944004cc8ea7e7ecfad4876d59ecb8de2129c3527f78fe57cd69` | `1ac535cabadf3783a40376c99675ba1dd93eafdceb6c73d1abd7496260ce6a74` | `2026-05-11_protisruti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
